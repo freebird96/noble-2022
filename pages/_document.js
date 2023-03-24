@@ -21,10 +21,7 @@ export default function Document() {
         />
         <meta name="twitter:site" content="@pixel_arts" />
         <meta name="twitter:creator" content="@pixel_arts" />
-        <meta
-          name="twitter:image:src"
-          content="./profile.jpg"
-        />
+        <meta name="twitter:image:src" content="./profile.jpg" />
         <meta name="og:title" content="Portfolio" />
         <meta
           name="og:description"
