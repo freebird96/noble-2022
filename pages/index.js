@@ -44,7 +44,10 @@ export default function Home() {
             About
           </Heading>
           <Text>
-            GM, I'm Noble. I'm an experienced software developer with 4 years of experience, proficient in Typescript, Python and Django framework, has hands on experience at AWS and Kafka, with strong skills in application development, debugging and project management.
+            GM, I'm Noble. I'm an experienced software developer with 4 years of
+            experience, proficient in Typescript, Python and Django framework,
+            has hands on experience at AWS and Kafka, with strong skills in
+            application development, debugging and project management.
           </Text>
         </Box>
         <Box mb={14}>

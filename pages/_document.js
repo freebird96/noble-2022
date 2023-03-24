@@ -5,10 +5,7 @@ export default function Document() {
     <Html>
       <Head>
         <meta charset="utf-8" />
-        <meta
-          name="description"
-          content="Noble Varghese - Backend Developer"
-        />
+        <meta name="description" content="Noble Varghese - Backend Developer" />
         <meta name="image" content="https://bonhomme.lol/meta-og.png" />
         <meta itemProp="name" content="Bonhomme" />
         <meta

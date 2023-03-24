@@ -36,7 +36,10 @@ export const Experience = ({
           />
         )}
       </Heading>
-      {desc && desc.split("•").map((item, index) => { return <li key={index}>{item.trim()}</li> })}
+      {desc &&
+        desc
+          .split('•')
+          .map((item, index) => <li key={index}>{item.trim()}</li>)}
       {stack && (
         <Text color="white" opacity={0.5}>
           {stack}

@@ -1,11 +1,11 @@
-import { Box, Flex, Image } from '@chakra-ui/react';
-import { useAccount } from 'wagmi';
-import { ConnectButton, useConnectModal } from '@rainbow-me/rainbowkit';
+import { Flex } from '@chakra-ui/react';
+// import { useAccount } from 'wagmi';
+// import { useConnectModal } from '@rainbow-me/rainbowkit';
 import { useState, useEffect } from 'react';
 
 export const Header = () => {
-  const { address } = useAccount();
-  const { openConnectModal } = useConnectModal();
+  // const { address } = useAccount();
+  // const { openConnectModal } = useConnectModal();
   const [hasMounted, setMounted] = useState(false);
 
   useEffect(() => {
@@ -23,7 +23,6 @@ export const Header = () => {
       as="header"
       alignItems="center"
       justifyContent="space-between"
-    >
-    </Flex>
+    />
   );
 };
