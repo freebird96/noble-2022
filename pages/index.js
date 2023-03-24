@@ -56,7 +56,7 @@ export default function Home() {
           </Heading>
 
           <Experience
-            href="https://oslash.com/"
+            href="https://www.oslash.com/"
             side="2022 - 2023"
             title="Product Engineer I - Oslash"
             desc="Implemented GraphQL APIs on serverless stack using Typescript capable of returning results in less than 500ms.
@@ -66,7 +66,7 @@ export default function Home() {
             stack="TS • GraphQL • Serverless Stack • AWS • CloudFlare • Terraform"
           />
           <Experience
-            href="https://madstreetden.com/"
+            href="https://www.madstreetden.com/"
             side="2021 - 2022"
             title="Junior Software Engineer - Mad Street Den"
             desc="Ensured seamless flow of data between three microservices, including disaster recovery plans to prevent data loss, maintaining 99.997% uptime, data partitioning, and eventual consistency.
@@ -79,7 +79,7 @@ export default function Home() {
             stack="AWS • Python • Kafka"
           />
           <Experience
-            href="https://madstreetden.com/"
+            href="https://www.madstreetden.com/"
             side="2020 – 2021"
             title="Engineering Trainee - Mad Street Den"
             desc="Restructured and re-architected an application from Node js to Python.
@@ -93,7 +93,7 @@ export default function Home() {
             stack="AWS • Python • Node js"
           />
           <Experience
-            href="https://madstreetden.com/"
+            href="https://www.madstreetden.com/"
             side="2019 – 2020"
             title="Intern - Mad Street Den"
             desc="Designed client requirements as RESTful API over the course of the internship.
@@ -109,13 +109,13 @@ export default function Home() {
           <Experience
             side="Github"
             title="@freebird96"
-            href="https://github.com/freebird96"
+            href="https://www.github.com/freebird96"
             mb={4}
           />
           <Experience
             side="Instagram"
             title="@noble_varghese_"
-            href="https://instagram.com/noble_varghese_?igshid=YmMyMTA2M2Y="
+            href="https://www.instagram.com/noble_varghese_?igshid=YmMyMTA2M2Y="
             mb={4}
           />
         </Box>
