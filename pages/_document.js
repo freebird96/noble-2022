@@ -25,7 +25,7 @@ export default function Document() {
           name="twitter:image:src"
           content="https://bonhomme.lol/meta-og.png"
         />
-        <meta name="og:title" content="Backend Developer" />
+        <meta name="og:title" content="Portfolio" />
         <meta
           name="og:description"
           content="Noble Varghese - Backend Developer"
