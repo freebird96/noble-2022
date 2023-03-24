@@ -6,13 +6,13 @@ export default function Document() {
       <Head>
         <meta charset="utf-8" />
         <meta name="description" content="Noble Varghese - Backend Developer" />
-        <meta name="image" content="https://bonhomme.lol/meta-og.png" />
+        <meta name="image" content="./profile.jpg" />
         <meta itemProp="name" content="Bonhomme" />
         <meta
           itemProp="description"
           content="Noble Varghese - Backend Developer"
         />
-        <meta itemProp="image" content="https://bonhomme.lol/meta-og.png" />
+        <meta itemProp="image" content="./profile.jpg" />
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:title" content="Backend Developer" />
         <meta
@@ -23,15 +23,14 @@ export default function Document() {
         <meta name="twitter:creator" content="@pixel_arts" />
         <meta
           name="twitter:image:src"
-          content="https://bonhomme.lol/meta-og.png"
+          content="./profile.jpg"
         />
         <meta name="og:title" content="Portfolio" />
         <meta
           name="og:description"
           content="Noble Varghese - Backend Developer"
         />
-        <meta name="og:image" content="https://bonhomme.lol/meta-og.png" />
-        <meta name="og:url" content="https://bonhomme.lol/" />
+        <meta name="og:image" content="./profile.jpg" />
         <meta name="og:site_name" content="Bonhomme" />
         <meta name="og:type" content="website" />
         <link rel="icon" href="./profile.jpg" />
