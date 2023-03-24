@@ -34,7 +34,7 @@ export default function Document() {
         <meta name="og:url" content="https://bonhomme.lol/" />
         <meta name="og:site_name" content="Bonhomme" />
         <meta name="og:type" content="website" />
-        <link rel="icon" href="./favicon.png" />
+        <link rel="icon" href="./profile.jpg" />
       </Head>
       <body>
         <Main />
