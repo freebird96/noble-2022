@@ -71,7 +71,7 @@ export const Avatar = () => {
           <Image
             borderRadius="full"
             width={{ base: '80%', lg: 'full' }}
-            src="/profile.jpg"
+            src="./profile.jpg"
             alt="Noble Varghese"
           />
         </Flex>
