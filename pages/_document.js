@@ -7,7 +7,7 @@ export default function Document() {
         <meta charset="utf-8" />
         <meta name="description" content="Noble Varghese - Backend Developer" />
         <meta name="image" content="./profile.jpg" />
-        <meta itemProp="name" content="Bonhomme" />
+        <meta itemProp="name" content="Noble Varghese" />
         <meta
           itemProp="description"
           content="Noble Varghese - Backend Developer"
@@ -28,7 +28,7 @@ export default function Document() {
           content="Noble Varghese - Backend Developer"
         />
         <meta name="og:image" content="./profile.jpg" />
-        <meta name="og:site_name" content="Bonhomme" />
+        <meta name="og:site_name" content="Noble Varghese" />
         <meta name="og:type" content="website" />
         <link rel="icon" href="./profile.jpg" />
       </Head>
