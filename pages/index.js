@@ -44,7 +44,14 @@ export default function Home() {
             About
           </Heading>
           <Text>
-            GM, I'm Noble. I'm a versatile software professional with four years of maintenance and development experience. I've worked hard to design multiple applications and microservices using AWS services, Cloudflare, and Kafka in addition to establishing competence in typescript, Python, and the Django framework. I am a valuable and dependable software professional thanks to my active abilities in application development, debugging, problem diagnosis & problem solving, and project management.
+            GM, I'm Noble. I'm a versatile software professional with four years
+            of maintenance and development experience. I've worked hard to
+            design multiple applications and microservices using AWS services,
+            Cloudflare, and Kafka in addition to establishing competence in
+            typescript, Python, and the Django framework. I am a valuable and
+            dependable software professional thanks to my active abilities in
+            application development, debugging, problem diagnosis & problem
+            solving, and project management.
           </Text>
         </Box>
         <Box mb={14}>
