@@ -36,6 +36,7 @@ export default function Home() {
               >
                 noble-varghese
               </Link>
+              <Text>noblekvarghese96@gmail.com</Text>
             </Box>
           </GridItem>
         </Grid>
@@ -126,12 +127,6 @@ export default function Home() {
             side="LinkedIn"
             title="Noble Varghese"
             href="https://www.linkedin.com/in/noble-k-varghese/"
-            mb={4}
-          />
-          <Experience
-            side="Mail"
-            title="Noble Varghese"
-            href="noblekvarghese96@gmail.com"
             mb={4}
           />
         </Box>
