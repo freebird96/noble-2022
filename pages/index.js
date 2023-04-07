@@ -32,7 +32,7 @@ export default function Home() {
               <Link
                 color="white"
                 opacity={0.5}
-                href="https://www.linkedin.com/in/noble-k-varghese-749bb448/"
+                href="https://www.linkedin.com/in/noble-k-varghese/"
               >
                 noble-varghese
               </Link>
@@ -108,14 +108,20 @@ export default function Home() {
 
           <Experience
             side="Github"
-            title="@freebird96"
-            href="https://www.github.com/freebird96"
+            title="@noble-varghese"
+            href="https://www.github.com/noble-varghese"
             mb={4}
           />
           <Experience
             side="Instagram"
             title="@noble_varghese_"
             href="https://www.instagram.com/noble_varghese_?igshid=YmMyMTA2M2Y="
+            mb={4}
+          />
+          <Experience
+            side="LinkedIn"
+            title="Noble Varghese"
+            href="https://www.linkedin.com/in/noble-k-varghese/"
             mb={4}
           />
         </Box>
