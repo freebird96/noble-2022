@@ -44,10 +44,7 @@ export default function Home() {
             About
           </Heading>
           <Text>
-            GM, I'm Noble. I'm an experienced software developer with 4 years of
-            experience, proficient in Typescript, Python and Django framework,
-            has hands on experience at AWS and Kafka, with strong skills in
-            application development, debugging and project management.
+            GM, I'm Noble. I'm a versatile software professional with four years of maintenance and development experience. I've worked hard to design multiple applications and microservices using AWS services, Cloudflare, and Kafka in addition to establishing competence in typescript, Python, and the Django framework. I am a valuable and dependable software professional thanks to my active abilities in application development, debugging, problem diagnosis & problem solving, and project management.
           </Text>
         </Box>
         <Box mb={14}>
@@ -122,6 +119,12 @@ export default function Home() {
             side="LinkedIn"
             title="Noble Varghese"
             href="https://www.linkedin.com/in/noble-k-varghese/"
+            mb={4}
+          />
+          <Experience
+            side="Mail"
+            title="Noble Varghese"
+            href="noblekvarghese96@gmail.com"
             mb={4}
           />
         </Box>
